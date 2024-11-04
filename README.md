@@ -1,4 +1,4 @@
-```markdown
+
 # Projet : Carte Exploratoire avec Obstacles en Go 🗺️
 
 Ce projet simule un système de déplacement sur une carte 2D dans lequel un personnage cherche un chemin vers une sortie (exit). La carte est représentée sous forme d'une grille 30x30 avec des éléments spécifiques comme des obstacles (murs), un point de départ et une sortie. Le programme utilise une recherche en profondeur (DFS) pour explorer la carte et trouver le chemin.
@@ -39,4 +39,3 @@ Le résultat s'affichera dans la console, avec le chemin parcouru indiqué par `
 - Ajout d'interfaces graphiques pour une visualisation interactive de la carte.
 - Personnalisation avancée des obstacles et des points de repère.
 - Optimisation de l'algorithme pour de plus grandes cartes ou des obstacles plus complexes.
-```
